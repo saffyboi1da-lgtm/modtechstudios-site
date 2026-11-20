@@ -13,5 +13,5 @@
  *   would trip the publish guard's secret scan.
  */
 window.MODTECH_WAITLIST = {
-  endpoint: ''
+  endpoint: 'https://rimizqirniyswsldubwy.supabase.co/functions/v1/waitlist-join'
 };
